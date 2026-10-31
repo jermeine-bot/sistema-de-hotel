@@ -1,0 +1,17 @@
+{
+  "nombre": "Hotel Paraíso",
+  "eslogan": "Su descanso, nuestra pasión",
+  "ruc": "J0310000000000",
+  "direccion": "Managua, Nicaragua",
+  "telefono": "+505 2222-0000",
+  "correo": "info@hotelparaiso.com",
+  "moneda": "NIO",
+  "simboloMoneda": "C$",
+  "zonaHoraria": "America/Managua",
+  "impuesto": 15,
+  "propina": 10,
+  "checkinHora": "14:00",
+  "checkoutHora": "12:00",
+  "politicaCancelacion": "Cancelación sin cargo hasta 24h antes del check-in.",
+  "pieDocumento": "¡Gracias por su preferencia!"
+}
